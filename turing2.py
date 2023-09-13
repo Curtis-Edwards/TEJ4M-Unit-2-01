@@ -2,7 +2,7 @@
 """ https://replit.com/@mrcoxall/singlefileturingmachine#main.py
 Created by: Curtis Edwards
 Created on: Sep 2023
-This is "Turing Machine" That prints the numbers 16 to 1 in binary (Reverse order)
+This is "Turing Machine" That prints the numbers 16 to 11 in binary (Reverse order)
 """
 
 import time
